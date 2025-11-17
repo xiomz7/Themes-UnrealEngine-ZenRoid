@@ -31,7 +31,7 @@
 		"EStyleColor::ForegroundHeader": "(R=0.000000,G=0.000000,B=0.000000,A=1.000000)",
 		"EStyleColor::Select": "(R=0.000000,G=0.162029,B=0.745404,A=1.000000)",
 		"EStyleColor::SelectInactive": "(R=0.051269,G=0.095307,B=0.158961,A=1.000000)",
-		"EStyleColor::SelectParent": "(R=0.025187,G=0.031896,B=0.042311,A=1.000000)",
+		"EStyleColor::SelectParent": "(R=0.333250,G=0.345769,B=0.348958,A=1.000000)",
 		"EStyleColor::SelectHover": "(R=0.465143,G=0.452302,B=0.666667,A=1.000000)",
 		"EStyleColor::Notifications": "(R=0.298233,G=0.342612,B=0.390625,A=1.000000)",
 		"EStyleColor::AccentBlue": "(R=0.019382,G=0.496933,B=1.000000,A=1.000000)",
