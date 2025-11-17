@@ -12,7 +12,7 @@
 		"EStyleColor::Input": "(R=0.937500,G=0.936673,B=0.909923,A=1.000000)",
 		"EStyleColor::InputOutline": "(R=0.154984,G=0.164562,B=0.218750,A=1.000000)",
 		"EStyleColor::Recessed": "(R=0.586996,G=0.576172,B=0.625000,A=1.000000)",
-		"EStyleColor::Panel": "(R=0.836151,G=0.807809,B=0.838542,A=1.000000)",
+		"EStyleColor::Panel": "(R=0.363665,G=0.383704,B=0.427083,A=1.000000)",
 		"EStyleColor::Header": "(R=0.063612,G=0.088749,B=0.348958,A=1.000000)",
 		"EStyleColor::Dropdown": "(R=0.563481,G=0.556665,B=0.635417,A=1.000000)",
 		"EStyleColor::DropdownOutline": "(R=0.072272,G=0.072272,B=0.072272,A=1.000000)",
